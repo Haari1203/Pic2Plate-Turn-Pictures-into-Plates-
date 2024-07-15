@@ -3,6 +3,8 @@
 **Goal of the Project:-**
 The goal of this project is to develop a solution that simplifies meal preparation by leveraging image recognition technology to identify ingredients from images and recommend recipes based on the detected ingredients. This tool aims to reduce food waste, save time, and help users make the most out of the ingredients they have available, ultimately making cooking more accessible and enjoyable.
 
+Being Diploma student this was the very tough project for me as this is the advanced version of Ai Ml . I have tried my best efforts to coplete this project.
+
 **Features Offered**
 1. Ingredient Identification:
 Image Upload: Users can upload images of their ingredients using their device’s camera or from their gallery.
